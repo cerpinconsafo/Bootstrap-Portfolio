@@ -1,6 +1,5 @@
-# Bootstrap-Portfolio
 # Bootstrap Portfolio
-#### week 2 - HTML/CSS - Patrick Skolsky
+#### unit 2 - HTML/CSS - Patrick Skolsky
 ----
 
 ## Table of Contents
